@@ -1,5 +1,5 @@
-number one: giannis 
-number two: lebron
-number three: leonard
-number four: harden
-number five: davis
+number one: giannis a.
+number two: lebron j.
+number three: kawhi l.  
+number four: james h.
+number five: anthony d.
